@@ -22,7 +22,7 @@ O banco de dados possui quatro tabelas:
 
 As tabelas possuem relacionamentos por meio de chaves primárias e estrangeiras.
 
-## 📈 Análises realizadas
+## Análises realizadas
 
 Foram desenvolvidas consultas SQL para:
 1. Calcular o faturamento total da loja.
