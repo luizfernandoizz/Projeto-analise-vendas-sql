@@ -56,16 +56,7 @@ Foram desenvolvidas consultas SQL para:
 5. Execute `database/criar_views.sql`.
 6. Execute `database/consultas.sql` .
 
-##  Organização do projeto
 
-projeto-analise-vendas/
-├── database/
-│   ├── criar_tabelas.sql
-│   ├── inserir_dados.sql
-│   ├── consultas.sql
-│   └── criar_views.sql
-└── README.md
-```
 
 ##  Objetivo de aprendizado
 
