@@ -22,7 +22,7 @@ O banco de dados possui quatro tabelas:
 
 As tabelas possuem relacionamentos por meio de chaves primárias e estrangeiras.
 
-## Análises realizadas
+## 📈 Análises realizadas
 
 Foram desenvolvidas consultas SQL para:
 1. Calcular o faturamento total da loja.
@@ -56,7 +56,16 @@ Foram desenvolvidas consultas SQL para:
 5. Execute `database/criar_views.sql`.
 6. Execute `database/consultas.sql` .
 
+##  Organização do projeto
 
+projeto-analise-vendas/
+├── database/
+│   ├── criar_tabelas.sql
+│   ├── inserir_dados.sql
+│   ├── consultas.sql
+│   └── criar_views.sql
+└── README.md
+```
 
 ##  Objetivo de aprendizado
 
