@@ -31,6 +31,7 @@ Foram desenvolvidas consultas SQL para:
 4. Analisar o faturamento por cliente.
 5. Contar a quantidade de pedidos por cliente.
 6. Calcular o faturamento de cada pedido.
+7. Identificar o produto mais vendido por categoria utilizando CTE e Window Functions
 
 
 ##  Conceitos aplicados
@@ -41,6 +42,7 @@ Foram desenvolvidas consultas SQL para:
 - PRIMARY KEY e FOREIGN KEY
 - CREATE TABLE e INSERT INTO
 - VIEW
+- Window Functions(DENSE_RANK) e CTE (WITH)
 
 ##  Resultados obtidos
 
@@ -54,7 +56,7 @@ Foram desenvolvidas consultas SQL para:
 3. Execute `database/criar_tabelas.sql`.
 4. Execute `database/inserir_dados.sql`.
 5. Execute `database/criar_views.sql`.
-6. Execute `database/consultas.sql` .
+6. Execute `database/consultas.sql` . 
 
 ##  Organização do projeto
 
